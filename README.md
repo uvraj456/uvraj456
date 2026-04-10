@@ -20,7 +20,10 @@
 
 <!-- Matrix Rain Effect - JS & AI -->
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<<<<<<< HEAD
 
+=======
+>>>>>>> f79787b (updated   Readme)
 
 <br/>
 
@@ -48,16 +51,16 @@ A secure and intelligent attendance system using:
 
 ---
 
-### 📡 Smart IoT-Based Attendance System
-![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-Biometric_Auth-red?style=flat-square) ![](https://img.shields.io/badge/AI-Anomaly_Detection-purple?style=flat-square)
+### 📡 Dual-Factor Attendance System
+![](https://img.shields.io/badge/Hardware-Raspberry_Pi-red?style=flat-square) ![](https://img.shields.io/badge/Security-RFID%20%2B%20Face-red?style=flat-square) ![](https://img.shields.io/badge/Cloud-Google_Sheets-blue?style=flat-square)
 
-A secure and intelligent attendance system using:
-- 🔐 Biometric authentication for secure student identity verification
-- 📊 Real-time attendance monitoring and session management
-- 🤖 AI-based analytics to detect anomalies and analyze attendance patterns
-- 🏫 Designed for educational institutions to prevent proxy attendance and improve monitoring
+Built an IoT-based attendance tracker to prevent proxy attendance:
+- 🔐 Integrated RFID authentication with facial recognition for dual-factor security
+- 📡 Raspberry Pi based edge system for reliable local processing
+- 📤 Attendance data can be sent directly to Google Sheets for records
+- 🏫 Designed to strengthen attendance integrity in educational environments
 
-> `Python` `IoT` `Machine Learning` `MongoDB`
+> `Python` `IoT` `RFID` `Face Recognition` `Google Sheets`
 
 ---
 
@@ -86,6 +89,42 @@ A smart farm assistant that:
 > `Python` `Flutter` `Gemini API` `opencv` 
 
 ---
+
+### 🧭 WearableAINavigation Assistant
+![](https://img.shields.io/badge/AI-YOLOv8-blue?style=flat-square) ![](https://img.shields.io/badge/Tech-Ollama-green?style=flat-square) ![](https://img.shields.io/badge/API-Google_Gemini-purple?style=flat-square)
+
+Developed a real-time, offline navigation system using:
+- 🧠 YOLOv8 for obstacle detection
+- 🤖 Ollama for local scene interpretation
+- 📈 Improved detection accuracy by 67% by retraining models on a custom dataset tailored to complex Indian urban environments
+- 🔗 Integrated Google Gemini API for interactive context
+- 🔊 Python Text-to-Speech to provide actionable auditory feedback
+
+> `Python` `YOLOv8` `Ollama` `Google Gemini API` `Text-to-Speech`
+
+---
+
+### 🧬 Deep Learning for Biomedical Signal Translation
+![](https://img.shields.io/badge/AI-Deep_Learning-red?style=flat-square) ![](https://img.shields.io/badge/Model-U-Net_GAN-orange?style=flat-square) ![](https://img.shields.io/badge/Tools-PyTorch%2FTensorFlow-purple?style=flat-square)
+
+Developed AI models to translate non-invasive PPG signals into Arterial Blood Pressure (ABP) waveforms:
+- 🧪 Architected U-Net GANs, LSTM-GRUs and 1D/2D CNN-BiLSTM attention layers using PyTorch and TensorFlow for high-accuracy signal denoising
+- 📊 Processed MIMIC-III (PhysioNet) and non-clinical Emotibit datasets to train robust models for real-time health monitoring and visualize graphs using test datasets
+- ⚡ Optimized signal pipelines, achieving improved accuracy in non-invasive blood pressure estimation
+
+> `PyTorch` `TensorFlow` `U-Net GAN` `LSTM-GRU` `MIMIC-III` `Emotibit`
+
+---
+
+### 🌾 Non-Invasive Grain Moisture Meter
+![](https://img.shields.io/badge/Hardware-ESP32-blue?style=flat-square) ![](https://img.shields.io/badge/Sensor-Fringing_Field-green?style=flat-square) ![](https://img.shields.io/badge/Type-Capacitive-orange?style=flat-square)
+
+Engineered an ESP32-based device to measure grain moisture through sealed gunny bags:
+- 🧪 Designed a fringing field capacitive sensor to detect moisture via dielectric variance
+- 🌾 Enabled non-invasive grain moisture measurement without opening storage bags
+- 📶 Built for reliable agricultural monitoring and improved post-harvest quality control
+
+> `ESP32` `Capacitive Sensor` `IoT` `Agritech`
 
 
 <h3>📬 I'd love to hear from you!</h3>
